@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkig-2244/nodejs.git"
+  },
+  "author": "Venkatesh G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkig-2244/nodejs/issues"
+  },
+  "homepage": "https://github.com/venkig-2244/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.7"
+  }
+}
